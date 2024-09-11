@@ -1,5 +1,5 @@
 # google-ads-resources
-Awesome Google Ads Resources
+Awesome Google Ads Resources from [Ad Labz](https://www.adlabz.co)
 
 [Business Success: Use Google Ads to Supercharge Your Growth](https://www.adlabz.co/use-google-ads-to-grow-your-business)
 
